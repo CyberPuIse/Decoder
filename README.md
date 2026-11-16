@@ -23,3 +23,72 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/CyberPuIse/Decoder.git
+```
+
+Go to the folder:
+
+```bash
+cd Decoder
+```
+
+Install requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
+<br>
+
+### 🚀 Run the Tool
+
+```bash
+python run.py
+```
+
+<br>
+
+### 📋 Menu Options
+
+| Option | Description                  |
+|--------|------------------------------|
+| **1**  | Decode Obfuscated File       |
+| **2**  | About Tool                   |
+| **3**  | Update Channel               |
+| **0**  | Exit                         |
+
+<br>
+
+### 📖 How to Use
+
+1. Run the tool using the command above
+2. Select option **`1`**
+3. Enter the full path of your obfuscated `.py` file  
+   **Example:**
+   ```
+   /sdcard/Download/main.py
+   ```
+4. Wait until the process is finished
+5. The decoded file will be saved as **`decoded.py`** in the same location
+
+<br>
+
+### 👤 Owner
+
+|              |                          |
+|--------------|--------------------------|
+| **Name**     | Nishad                   |
+| **Username** | [@YellowlFlash](https://t.me/YellowlFlash) |
+| **Channel**  | [Join Update Channel](https://t.me/+0wFMJrSkxFNhMzQ1) |
+
+<br>
+
+### ⚠️ Disclaimer
+
+This tool is made for **educational purposes only**.  
+The developer is not responsible for any kind of misuse.
+
+<br>
+
+<p align="center">
+  <b>Made with ❤️ by Nishad (@YellowlFlash)</b>
+</p>
