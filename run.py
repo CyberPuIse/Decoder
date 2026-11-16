@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Protected by Cyber Pulse Custom Protection
+#!/usr/bin/env pythonn
 # Owner: Nishad (@YellowlFlash)
 
 import base64, zlib, marshal, sys
